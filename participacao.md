@@ -176,7 +176,7 @@ Total de tópicos: 75
 
 | Participante  | Tópicos Traduzidos                  | Tópicos revisados  | Situação      | 
 |---------------------|-----------------------------|--------|------------------|
-|Bruno Pereira   | 2        | 0|  Falta 2 |
+|Bruno Pereira   | 5        | 0| OK |
 |Gabriel Souza   |  6      | 0|   OK  |
 |Henrique Assis     |  13  |  13|   OK |
 |Herivelton Siqueira   |     3      | 0|    Falta 1 |
