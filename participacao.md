@@ -18,9 +18,9 @@ Tabela tradução:
 | altair_marks_encoding.ipynb      | Tradução 2.3         | 2.3 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.3.1         | 2.3.1 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.3.2         | 2.3.2 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.3.3         | 2.3.3 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.3.3         | 2.3.3 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.3.4         | 2.3.4 |     |
+| altair_marks_encoding.ipynb      | Tradução 2.3.3         | 2.3.3 |   Bruno Pereira  |
+| altair_marks_encoding.ipynb      | Tradução 2.3.3         | 2.3.3 |   Bruno Pereira  |
+| altair_marks_encoding.ipynb      | Tradução 2.3.4         | 2.3.4 |   Bruno Pereira  |
 | altair_marks_encoding.ipynb      | Tradução 2.3.5         | 2.3.5 |     |
 | altair_marks_encoding.ipynb      | Tradução 2.3.6         | 2.3.6 | Maria Eduarda |
 | altair_marks_encoding.ipynb      | Tradução 2.3.7         | 2.3.7 | Maria Eduarda |
