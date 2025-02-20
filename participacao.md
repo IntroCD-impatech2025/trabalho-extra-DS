@@ -21,7 +21,7 @@ Tabela tradução:
 | altair_marks_encoding.ipynb      | Tradução 2.3.3         | 2.3.3 |   Bruno Pereira  |
 | altair_marks_encoding.ipynb      | Tradução 2.3.3         | 2.3.3 |   Bruno Pereira  |
 | altair_marks_encoding.ipynb      | Tradução 2.3.4         | 2.3.4 |   Bruno Pereira  |
-| altair_marks_encoding.ipynb      | Tradução 2.3.5         | 2.3.5 |     |
+| altair_marks_encoding.ipynb      | Tradução 2.3.5         | 2.3.5 |   Bruno Pereira  |
 | altair_marks_encoding.ipynb      | Tradução 2.3.6         | 2.3.6 | Maria Eduarda |
 | altair_marks_encoding.ipynb      | Tradução 2.3.7         | 2.3.7 | Maria Eduarda |
 | altair_marks_encoding.ipynb      | Tradução 2.3.8         | 2.3.8 | Maria Eduarda |
@@ -149,15 +149,15 @@ Tabela Revisão:
 | altair_interaction.ipynb      | Revisão 6.8         | 6.8 |     Henrique Assis  |
 | altair_interaction.ipynb      | Revisão 6.8.1         | 6.8.1 |   Henrique Assis    |
 |      |              |  |     |
-| altair_cartographic.ipynb      | Revisão 7             | 7 |      |
-| altair_cartographic.ipynb      | Revisão 7.1             | 7.1 |    |
-| altair_cartographic.ipynb      | Revisão 7.2             | 7.2 |    |
-| altair_cartographic.ipynb      | Revisão 7.3             | 7.3 |    |
-| altair_cartographic.ipynb      | Revisão 7.4             | 7.4 |   |
-| altair_cartographic.ipynb      | Revisão 7.5             | 7.5 |    |
-| altair_cartographic.ipynb      | Revisão 7.6             | 7.6 |     |
-| altair_cartographic.ipynb      | Revisão 7.7             | 7.7 |     |
-| altair_cartographic.ipynb      | Revisão 7.8             | 7.8 |     |
+| altair_cartographic.ipynb      | Revisão 7             | 7 |   Bruno Pereira   |
+| altair_cartographic.ipynb      | Revisão 7.1             | 7.1 |  Bruno Pereira  |
+| altair_cartographic.ipynb      | Revisão 7.2             | 7.2 |  Bruno Pereira  |
+| altair_cartographic.ipynb      | Revisão 7.3             | 7.3 |  Bruno Pereira  |
+| altair_cartographic.ipynb      | Revisão 7.4             | 7.4 | Bruno Pereira  |
+| altair_cartographic.ipynb      | Revisão 7.5             | 7.5 |  Bruno Pereira  |
+| altair_cartographic.ipynb      | Revisão 7.6             | 7.6 |  Bruno Pereira   |
+| altair_cartographic.ipynb      | Revisão 7.7             | 7.7 |  Bruno Pereira   |
+| altair_cartographic.ipynb      | Revisão 7.8             | 7.8 |  Bruno Pereira   |
 |      |              |  |     |
 | altair_debugging.ipynb      | Revisão ADG            | ADG |     |
 | altair_debugging.ipynb      | Revisão installation           | Installation |     |
