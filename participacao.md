@@ -121,19 +121,19 @@ Tabela Revisão:
 | altair_marks_encoding.ipynb      | Revisão 2.4.6         | 2.4.6 |     |
 | altair_marks_encoding.ipynb      | Revisão 2.4.7         | 2.4.7 |     |
 |      |              |  |     |
-| altair_data_transformation.ipynb      | Revisão 3         | 3 |     |
-| altair_data_transformation.ipynb      | Revisão 3.1         | 3.1 |     |
+| altair_data_transformation.ipynb      | Revisão 3         | 3 |    Henrique Assis  |
+| altair_data_transformation.ipynb      | Revisão 3.1         | 3.1 |  Henrique Assis    |
 | altair_data_transformation.ipynb      | Revisão 3.2         | 3.2 |     |
-| altair_data_transformation.ipynb      | Revisão 3.3         | 3.3 |     |
-| altair_data_transformation.ipynb      | Revisão 3.3.1         | 3.3.1 |     |
+| altair_data_transformation.ipynb      | Revisão 3.3         | 3.3 |  Henrique Assis    |
+| altair_data_transformation.ipynb      | Revisão 3.3.1         | 3.3.1 | Henrique Assis     |
 | altair_data_transformation.ipynb      | Revisão 3.3.2         | 3.3.2 |   |
 | altair_data_transformation.ipynb      | Revisão 3.3.3         | 3.3.3 |   |
-| altair_data_transformation.ipynb      | Revisão 3.4         | 3.4 |     |
-| altair_data_transformation.ipynb      | Revisão 3.4.1         | 3.4.1 |     |
-| altair_data_transformation.ipynb      | Revisão 3.4.2         | 3.4.2 |     |
-| altair_data_transformation.ipynb      | Revisão 3.4.3         | 3.4.3 |     |
-| altair_data_transformation.ipynb      | Revisão 3.4.4         | 3.4.4 |     |
-| altair_data_transformation.ipynb      | Revisão 3.5         | 3.5 |     |
+| altair_data_transformation.ipynb      | Revisão 3.4         | 3.4 |Henrique Assis      |
+| altair_data_transformation.ipynb      | Revisão 3.4.1         | 3.4.1 |   Henrique Assis   |
+| altair_data_transformation.ipynb      | Revisão 3.4.2         | 3.4.2 |   Henrique Assis   |
+| altair_data_transformation.ipynb      | Revisão 3.4.3         | 3.4.3 |  Henrique Assis    |
+| altair_data_transformation.ipynb      | Revisão 3.4.4         | 3.4.4 |  Henrique Assis    |
+| altair_data_transformation.ipynb      | Revisão 3.5         | 3.5 |   Henrique Assis   |
 |      |              |  |     |
 | altair_interaction.ipynb      | Revisão 6         | 6 |    Henrique Assis  |
 | altair_interaction.ipynb      | Revisão 6.1         | 6.1 |  Henrique Assis   |
