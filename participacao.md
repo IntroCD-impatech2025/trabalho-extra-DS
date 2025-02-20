@@ -179,7 +179,7 @@ Total de tópicos: 75
 |Bruno Pereira   | 5        | 0| OK |
 |Gabriel Souza   |  6      | 0|   OK  |
 |Henrique Assis     |  13  |  13|   OK |
-|Herivelton Siqueira   |     3      | 0|    Falta 1 |
+|Herivelton Siqueira   |     6      | 0|    OK |
 |Jonathas David  |  7        | 0 | OK   |
 |Marcos Abilio  |     3       |0 |Falta 1   |
 |Maria Eduarda |       9   |  0|   OK|
