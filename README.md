@@ -18,3 +18,14 @@ data-transformation(lista 3, 57%)
 lista 6, lista 7
 
 debugging guide.
+
+
+Os seguintes arquivos permanecem inalterados (por não ter sido um rendimento menor que 60%, sendo satisfatorio):
+
+intro_to_altair.ipynb
+altair_scales_axes_legends.ipynb
+altair_view_composition.ipynb
+
+O objetivo é atualizar os notebooks (uma vez que esses tutotriais estão quase obsoletos para as versões novas do altair)
+
+E depois disso, poderá ser publicado.
