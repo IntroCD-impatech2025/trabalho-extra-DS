@@ -181,4 +181,4 @@ Participação: São 75 tópicos ao todo.
 |Jonathas David     |7           |19 |  26  |
 |Marcos Abilio    |  13         |0 |  13  |
 |Maria Eduarda   |  9         |0 |  9  |
-|Pedro Carvalho   |  10        |14 |  9  |
+|Pedro Carvalho   |  10        |14 |  24  |
