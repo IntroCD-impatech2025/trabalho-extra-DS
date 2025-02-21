@@ -170,4 +170,15 @@ Tabela Revisão:
 | altair_debugging.ipynb      | Revisão PABI          | PABI  |   Henrique Assis    |
 | altair_debugging.ipynb      | Revisão AFH+RI        | AFH+RI  |  Henrique Assis     |
 
+Participação: São 75 tópicos ao todo.
 
+| Participante    |Tópicos Traduzidos                    |Tópicos Revisados  | Tópicos Traduzidos e revisados     |
+|---------------------|-----------------------------|--------|------------------|
+|Bruno Pereira  | 9       |2  |  11  |
+|Gabriel Souza |8           |0  |  8 |
+|Henrique Assis   | 13     |40 |  53  |
+|Herivelton Siqueira   | 6     | 0| 6   |
+|Jonathas David     |7           |19 |  26  |
+|Marcos Abilio    |  13         |0 |  13  |
+|Maria Eduarda   |  9         |0 |  9  |
+|Pedro Carvalho   |  10        |14 |  9  |
