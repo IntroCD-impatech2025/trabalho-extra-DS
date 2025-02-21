@@ -31,8 +31,8 @@ Tabela tradução:
 | altair_marks_encoding.ipynb      | Tradução 2.4.3         | 2.4.3 | Maria Eduarda |
 | altair_marks_encoding.ipynb      | Tradução 2.4.4         | 2.4.4 | Maria Eduarda |
 | altair_marks_encoding.ipynb      | Tradução 2.4.5         | 2.4.5 | Maria Eduarda |
-| altair_marks_encoding.ipynb      | Tradução 2.4.6         | 2.4.6 |     |
-| altair_marks_encoding.ipynb      | Tradução 2.4.7         | 2.4.7 |     |
+| altair_marks_encoding.ipynb      | Tradução 2.4.6         | 2.4.6 |  Gabriel Souza   |
+| altair_marks_encoding.ipynb      | Tradução 2.4.7         | 2.4.7 | Gabriel Souza      |
 | altair_marks_encoding.ipynb      | Tradução 2.5        | 2.5 |    Herivelton Siqueira   |
 |      |              |  |     |
 | altair_data_transformation.ipynb      | Tradução 3         | 3 |   Herivelton Siqueira    |
