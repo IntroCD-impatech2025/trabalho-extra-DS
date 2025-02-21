@@ -21,3 +21,7 @@ Dependendo do seu ambiente de programação (e se você tem ou não uma conexão
 ## Créditos
 
 Desenvolvido na Universidade de Washington por Jeffrey Heer, Dominik Moritz, Jake VanderPlas e Brock Craft. Gratidão ao [UW Interactive Data Lab](https://idl.cs.washington.edu/) e Arvind Satyanarayan por suas valiosas contribuições e feedback! Gratidão também aos estudantes de [UW CSE512 Spring 2019](https://courses.cs.washington.edu/courses/cse512/19sp/), o primeiro grupo a usar esses _notebooks_ dentro de um currículo de curso integrado.
+
+Tradução por: Bruno Pereira, Gabriel Souza, Henrique Assis, Herivelton Siqueira, Jonathas Santos, Marcos Abilio, Maria Eduarda, Pedro Carvalho
+
+Essa é uma Tradução NÃO OFICIAL feitas por alunos do IMPATech, e não é apoiada pela Universidade de Washington, respeitando a licensa BSD.
